@@ -3,11 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title>Ourls</title>
+    <meta name="description" content="大连工业大学短网址">
+    <meta name="keywords" content="大连工业大学">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>短网址 - 大连工业大学</title>
 
     <!-- Set render engine for 360 browser -->
     <meta name="renderer" content="webkit">
@@ -29,14 +28,10 @@
     <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
-<a href="https://github.com/takashiki/ourls">
-    <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png">
-</a>
 
 <div class="header">
     <div class="am-g">
-        <h1>Ourls</h1>
-        <p>Url Shorten Service<br>基于发号加hash id的短网址服务</p>
+        <h1>大连工业大学·短网址</h1>
     </div>
     <hr>
 </div>
@@ -53,7 +48,6 @@
         </form>
         <div id="qrcode" class="am-hide am-center am-img-thumbnail am-img-responsive" style="width: 206px;height: 206px"></div>
         <hr>
-        <p>© <?= date('Y') ?> <a href="https://github.com/takashiki/ourls" target="_blank">Ourls</a> . Licensed under MIT license.</p>
     </div>
 </div>
 
