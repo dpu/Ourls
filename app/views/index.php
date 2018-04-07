@@ -39,13 +39,14 @@
 <div class="am-g">
     <div id="content" class="am-u-lg-6 am-u-md-8 am-u-sm-centered">
         <form class="am-form">
-            <input type="url" name="" id="url" value="" placeholder="请在此填写你要转换的长网址或短址">
+            <input type="url" name="" id="url" value="" placeholder="输入待转换的长网址或短网址">
             <br>
             <div class="am-cf">
                 <input type="button" id="shorten" value="转换短址" class="am-btn am-btn-primary am-btn-sm am-fl">
                 <input type="button" id="expand" value="还原短址" class="am-btn am-btn-default am-btn-sm am-fr">
             </div>
         </form>
+        <br>
         <div id="qrcode" class="am-hide am-center am-img-thumbnail am-img-responsive" style="width: 206px;height: 206px"></div>
         <hr>
     </div>
